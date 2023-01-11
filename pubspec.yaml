@@ -1,0 +1,45 @@
+name: appchat
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  firebase_core: 2.4.1
+  google_sign_in: 5.4.2
+  get_storage: 2.0.3
+  lottie: ^2.1.0
+  cloud_firestore: ^4.3.1
+  avatar_glow: ^2.0.2
+  emoji_picker_flutter: ^1.5.1
+  introduction_screen: ^3.1.2
+  intl: 0.17.0
+  image_picker: 0.8.6
+  firebase_storage: 11.0.10
+  firebase_auth: 4.2.5
+  firebase_auth_web: 5.2.4
+  popover: 0.2.8
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: 2.0.1
+  flutter_launcher_icons: 0.11.0
+  flutter_test: 
+    sdk: flutter
+
+flutter_icons: 
+  android: launcher_icon
+  image_path: asset/logo/logo.png
+  ios: true
+
+flutter: 
+  assets: 
+    - asset/lottie/
+    - asset/models/
+    - asset/logo/
+  uses-material-design: true
+

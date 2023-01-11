@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "497859891495",
+    "project_id": "chattapp-fitrayana",
+    "storage_bucket": "chattapp-fitrayana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497859891495:android:f1405a9ec08715caea9902",
+        "android_client_info": {
+          "package_name": "com.fitrayanaf15.appchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497859891495-u7abtkb00lfefr2i103sg6v5t15j2t08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fitrayanaf15.appchat",
+            "certificate_hash": "eb7220ea8b088d17c6ec1010b79f08a8cc8e3d61"
+          }
+        },
+        {
+          "client_id": "497859891495-8ldepdjsa3v2v6glo3tg9vplok3ajkhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKjMXJ7OGvj2A2ozo3dHoPUzeAv71kzBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497859891495-8ldepdjsa3v2v6glo3tg9vplok3ajkhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
